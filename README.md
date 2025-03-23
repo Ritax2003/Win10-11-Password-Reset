@@ -39,7 +39,7 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
        </td>
      </tr>
    </table>
-
+5. Type <code>regedit</code> to open the registry editor.
 
 
 
