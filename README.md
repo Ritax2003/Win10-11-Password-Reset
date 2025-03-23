@@ -53,6 +53,7 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
 13. On the Right side, you will see <code>CMDLINE</code>. double click on it and change the value to <code>cmd.exe</code>.
 14. On the same right side, check for <code>SetupType</code>. double click on it and change the value <code>data</code> to 2. The data should be enteres in Hexadecimal mode.<br>
 ![image](https://github.com/user-attachments/assets/b2c7ef41-e85b-4022-96a4-988ff4e68d0a)
+15. Now in the left side, click on <code>1234</code>, and go to <code>FILE</code> and click <code>Unload Hive</code>. 
 
 
 
