@@ -53,8 +53,24 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
 13. On the Right side, you will see <code>CMDLINE</code>. double click on it and change the value to <code>cmd.exe</code>.
 14. On the same right side, check for <code>SetupType</code>. double click on it and change the value <code>data</code> to 2. The data should be enteres in Hexadecimal mode.<br>
 ![image](https://github.com/user-attachments/assets/b2c7ef41-e85b-4022-96a4-988ff4e68d0a)
-15. Now in the left side, click on <code>1234</code>, and go to <code>FILE</code> and click <code>Unload Hive</code>. 
+15. Now in the left side, click on <code>1234</code>, and go to <code>FILE</code> and click <code>Unload Hive</code>.
+16. Now Close the registry editor , then either exit CMD by typing <code>exit</code> in CMD and pressing enter or just closing the window. For those using recovery media approach (option 2), cancel the windows installation.
+17. #### IF using recovery media approach, you can reorder the boot order to what it was before. (Before doing the reboot).
+18. Reboot the PC, in next restart CMD will open by default.
+19. type <code>net user</code>. and press enter.<br>
+![image](https://github.com/user-attachments/assets/ad2f87c5-bb70-4363-a3f6-5a9c7b3fbaa5)
 
+20. type <code>net user (account name) *</code> and enter. in space of account name, type your account name you have found from step 19. REMOVE THE BRACES.<br>
+![image](https://github.com/user-attachments/assets/af8c6ea9-1772-403f-a4e2-2c2796dde0c3)
+21. Type a password : don't type anything , just press enter.
+22. Retype/Confirm : don't type anything , just press enter.
+23. #### IF YOUR NAME HAS SPACE IN IT LIKE "ANDREW JONES" :
+    type as : 1. net user "ANDREWJONES" *
+                          or
+              2. net user "ANDREW JONES" * .
+24. Exit CMD by typing <code>exit</code> in CMD and pressing enter .
+25. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Now windows will open without asking any password., HOWEVER, YOU WILL BE LOGOUT OF ALL ACCOUNT, ALL OF YOUR GMAIL ACCOUNT WILL BE REMOVED FROM PC, YOU HAVE TO LOGIN IN ALL ACCOUNT FROM START`
+26. AND PLEASE. REMEMBER THE NEW PIN/PASSWORD FROM NOW ON.
 
 
 
