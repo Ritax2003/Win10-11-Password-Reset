@@ -40,6 +40,20 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
      </tr>
    </table>
 5. Type <code>regedit</code> to open the registry editor.
+6. Click on <code>HKEY_LOCAL_MACHINE</code> <br>
+![image](https://github.com/user-attachments/assets/b004af4e-a1d4-4a1a-9724-250deac7715e)<br>
+7. Click on <code>File</code>, then click<code>Load Hive</code> <br>
+![image](https://github.com/user-attachments/assets/49f1ae78-8ade-47a3-bac8-1811d8fd0852)
+8. Click on <code>This PC</code> , then select the drive where OS is (sometimes C: will not be shown, select the OS drive by checking the size or content)<br>
+![image](https://github.com/user-attachments/assets/117bb0e6-6acc-4503-bab2-3ce10737d7c7)
+9. Click on <code>Windows</code>, then <code>System32</code> then <code>Config</code> then double click on <code>System</code>.
+10. Type <code>KeyName</code> as <code>1234</code>.
+11. Then go to <code>HKEY_LOCAL_MACHINE</code> then goto <code>1234</code>.
+12. Go to <code>Setup</code>
+13. On the Right side, you will see <code>CMDLINE</code>. double click on it and change the value to <code>cmd.exe</code>.
+14. On the same right side, check for <code>SetupType</code>. double click on it and change the value <code>data</code> to 2. The data should be enteres in Hexadecimal mode.<br>
+![image](https://github.com/user-attachments/assets/b2c7ef41-e85b-4022-96a4-988ff4e68d0a)
+
 
 
 
