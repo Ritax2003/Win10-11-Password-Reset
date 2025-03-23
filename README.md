@@ -19,14 +19,24 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
    <table>
      <tr>
        <td>Asking for Bitlocker Encryption Key (option 1)</td>
-       <td>Asking, but option 1 failed (Option 2)</td>
+       <td>Asking, but option 1 failed (Option 2) [This is more advnced option]</td>
      </tr>
      <tr>
        <td>
           Go to : <a href="https://aka.ms/myrecoverykey"> Microsoft Account </a> <br>
           Type the recovery key found here, Drive type should be "OSV". This means the drive is used as OS Volume , where os is installed.
        </td>
-       <td></td>
+       <td>
+          This requires you to have any recovery media (can be of another pc, or can be of windows 8/10/11 - needed only to trigger the CMD.)
+          <ol>
+          <li>Connect the recovery media to pc.</li> 
+          <li>Go to BIOS/UEFI and change the boot priority, with the recovery media set as the topmost priority.</li>
+          <li>Start PC after saving the BIOS.</li>
+          <li>
+              <img src="https://github.com/user-attachments/assets/68733f1f-fcb0-47a0-847a-a86679624cab"> <br>
+             When Windows installer screen comes , press <code>Shift + F10</code> to open CMD.</li>
+          </ol>
+       </td>
      </tr>
    </table>
 
