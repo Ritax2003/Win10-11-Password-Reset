@@ -12,7 +12,7 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
 <code>it will show the message "Please wait, diagnosing your pc.."</code>
 2. Go to <code>Advanced Options</code> <br>
 ![image](https://github.com/user-attachments/assets/6c3e5833-ee8a-4860-9915-59e8e78eb7f2) <br>
-3. Go to <code>Troubleshoot -> CMD</code> <br>
+3. Go to <code>Troubleshoot -> Command Prompt</code> <br>
 ![image](https://github.com/user-attachments/assets/f1bcb6f1-2020-4009-90da-95fb78fbe74a)
 
 
