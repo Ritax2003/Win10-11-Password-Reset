@@ -15,7 +15,7 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
 3. Go to <code>Troubleshoot -> Command Prompt</code> <br>
 ![image](https://github.com/user-attachments/assets/f1bcb6f1-2020-4009-90da-95fb78fbe74a) <br>
 4. Now in this step, you can get stuck.<br>
-![image](https://github.com/user-attachments/assets/874e4ec9-c6aa-430b-82cd-9fa7a79c8c74)
+![image](https://github.com/user-attachments/assets/874e4ec9-c6aa-430b-82cd-9fa7a79c8c74) <br>
    <table>
      <tr>
        <td>Asking for Bitlocker Encryption Key (option 1)</td>
@@ -23,7 +23,8 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
      </tr>
      <tr>
        <td>
-          Go to : <a href="https://aka.ms/myrecoverykey"> Microsoft Account </a>
+          Go to : <a href="https://aka.ms/myrecoverykey"> Microsoft Account </a> <br>
+          Type the recovery key found here, Drive type should be "OSV". This means the drive is used as OS Volume , where os is installed.
        </td>
        <td></td>
      </tr>
