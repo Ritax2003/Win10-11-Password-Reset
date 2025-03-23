@@ -13,7 +13,21 @@ Exactly this situation has happened to me. I have an ASUS vivobook with fingerpr
 2. Go to <code>Advanced Options</code> <br>
 ![image](https://github.com/user-attachments/assets/6c3e5833-ee8a-4860-9915-59e8e78eb7f2) <br>
 3. Go to <code>Troubleshoot -> Command Prompt</code> <br>
-![image](https://github.com/user-attachments/assets/f1bcb6f1-2020-4009-90da-95fb78fbe74a)
+![image](https://github.com/user-attachments/assets/f1bcb6f1-2020-4009-90da-95fb78fbe74a) <br>
+4. Now in this step, you can get stuck.<br>
+![image](https://github.com/user-attachments/assets/874e4ec9-c6aa-430b-82cd-9fa7a79c8c74)
+   <table>
+     <tr>
+       <td>Asking for Bitlocker Encryption Key (option 1)</td>
+       <td>Asking, but option 1 failed (Option 2)</td>
+     </tr>
+     <tr>
+       <td>
+          Go to : <a href="https://aka.ms/myrecoverykey"> Microsoft Account </a>
+       </td>
+       <td></td>
+     </tr>
+   </table>
 
 
 
