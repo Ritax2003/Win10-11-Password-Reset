@@ -6,3 +6,8 @@
 Exactly this situation has happened to me. I have an ASUS vivobook with fingerprint sensor and i use fingerprint to login for daily use, so i don't need to remember the password/pin. One day, a glitch occured and my fingerprint was not being detected by my laptop. and this was just before my exam too. Panic ensues!!`
 
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `So how to do it?`
+
+1. Restart multiple times by holding the power key until you see this screen : <br>
+![image](https://github.com/user-attachments/assets/f3f77419-0e15-45a6-8cca-e7a81417fc35) <br>
+<code>it will show the message "Please wait, diagnosing your pc.."</code>
+
